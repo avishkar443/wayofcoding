@@ -1,0 +1,2 @@
+# wayofcoding
+my first website
